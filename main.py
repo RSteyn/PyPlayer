@@ -5,5 +5,4 @@
 
 import pyplayer
 
-pyplayer.prepare()
 pyplayer.run()
