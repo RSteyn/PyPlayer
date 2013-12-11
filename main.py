@@ -1,2 +1,9 @@
-# I feel like something is missing here.
-print("Hello World!")
+# Project: PyPlayer
+# Authored by:
+#  - Nelson Crosby (github.com/NelsonCrosby)
+#  - Riley Steyn (github.com/RSteyn)
+
+import pyplayer
+
+pyplayer.prepare()
+pyplayer.run()
